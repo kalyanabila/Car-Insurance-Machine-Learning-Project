@@ -35,3 +35,6 @@ Dataset from US Bank with :
 
 #### Scalling has an effect on Logistic Regression
 
+# Recommendation
+- Bank should pursue potential customers with specific criterias such as, adult age (25 and more), secondary education, managerial position and married status
+- Using Machine Learning : Logistic Regression with Scaling StandarScaler
